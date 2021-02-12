@@ -1,5 +1,5 @@
 {
-  "name": "singh_j_week1_sem4",
+  "name": "sem4_week1",
   "version": "1.0.0",
   "description": "learning node and npm",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaskaransing108373/Singh_J_week1_Sem4.git"
+    "url": "git+https://github.com/sabnitkaur01/SEM4_week1.git"
   },
   "keywords": [
     "node",
@@ -19,7 +19,7 @@
     "github",
     "awesome"
   ],
-  "author": "Jas",
+  "author": "Sabnit",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
@@ -29,5 +29,9 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sabnitkaur01/SEM4_week1/issues"
+  },
+  "homepage": "https://github.com/sabnitkaur01/SEM4_week1#readme"
 }
