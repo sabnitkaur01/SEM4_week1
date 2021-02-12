@@ -1,0 +1,33 @@
+{
+  "name": "singh_j_week1_sem4",
+  "version": "1.0.0",
+  "description": "learning node and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello from node!\"",
+    "start-dev": "nodemon app",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaskaransing108373/Singh_J_week1_Sem4.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "git",
+    "github",
+    "awesome"
+  ],
+  "author": "Jas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
